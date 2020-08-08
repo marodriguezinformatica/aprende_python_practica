@@ -1,0 +1,3 @@
+Esto es una prueba
+del manejo de ficheros en Python.Nueva línea
+Nueva líneaNueva línea
